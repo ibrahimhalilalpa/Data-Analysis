@@ -1,0 +1,2 @@
+# Data-Analysis
+Python ile yapılmış bir veri analizi projesi. Midterm ve Final projeleri kapsamında bir veri seti seçilerek, sınıflandırma (Classification) veya regresyon (Regression) işlemleri uygulanmıştır. Projede Random Forest, K-Nearest Neighbors ve Decision Tree algoritmaları kullanılmış, her algoritmanın çalışma prensipleri açıklanmış ve performans değerlendirme metrikleri (MAE, MSE, R² veya accuracy, precision, recall, F1-score) hesaplanmıştır. Kullanılan kütüphaneler ve kodlar raporun ekinde sunulmuştur.
